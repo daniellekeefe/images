@@ -1,0 +1,80 @@
+#header_buttons {
+	 position: fixed;
+    top: 0px;
+    right: 0px;
+    display: inline;
+	
+}
+#google_logo{
+     position: fixed;
+  top: 200px;
+  left: 200px;
+   margin-top: -40px;
+  margin-left:240px;
+
+  
+}
+#query{
+     position: fixed;
+  top: 400px;
+  left: 200px;
+   margin-top: -40px;
+  margin-left:240px;
+
+}
+
+.buttons
+{
+     position: fixed;
+  top: 445px;
+  left: 350px;
+   margin-top: -40px;
+  margin-left:240px;
+
+}
+
+li {
+    display: inline;
+    text-decoration: none;
+    color: #4D4D4D;
+
+}
+
+input[type=text], textarea {
+  outline: none;
+  padding: 3px 0px 3px 3px;
+  margin: 5px 1px 3px 0px;
+  border: 1px solid #0000FF; 
+  width: 550px; 
+  height: 25px; 
+  background: url(https://dl.dropboxusercontent.com/u/15152010/thinkful/FEWD/google_clone/images/microphone.png) no-repeat right;
+}
+
+a {
+ text-decoration: none;
+ color: #8C8F8C;
+}
+footer{
+
+position: fixed;
+bottom:0;
+left:0;
+width:100%;
+
+height: 50px;
+background-color: #E6E6E6;
+color: #ffffff;
+border-top: 1px solid black;
+}
+.footer-right{
+  float: right;
+}
+.footer-left{
+  float: left;
+}
+.footer-right li, .footer-left li, {
+  display:inline-block;
+}
+  
+
+
